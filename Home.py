@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-st.header("Bantita")
+st.header("โปรเจคการจำแนกข้อมูลดอกไม้")
 st.image("./img/Ink.jpeg")
 col1, col2, col3 = st.columns(3)
 
